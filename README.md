@@ -11,12 +11,14 @@ You have the freedom to be creative in how you present your résumé. It should,
 
 This assignment is worth **15 points.**
 
+**SUGGESTION:** Follow instructions. Print out this page and mark off each step as you finish it. This will provide you with an assurance that you have completed what is being asked of you.
+
 ###Requirements
 
 We will be looking for a well-structured document, including:
 
 - Valid HTML (checked using the [W3C HTML Validator](http://validator.w3.org/))
-- Presence of HTML5 structural tags (i.e. `header`, `nav`, `main`, `section`, `article`, `footer`) as warrants
+- Presence of HTML5 structural tags (i.e. `header`, `nav`, `main`, `section`, `article`, `footer`) as needed
 - Proper use of hierarchical (`h1-h6`) tags
 - Properly encoded HTML entities
 - Use of appropriate tags for marking up content
@@ -26,6 +28,12 @@ To demonstrate proficiency using hypertext, the document must include:
 
 - At least one external link
 - A navigational (`nav`) element provides a menu for each section of the résumé
+
+In general, your document should:
+
+- follow best practices as specified during lectures
+- be free of spelling errors
+- be free of broken links / broken images
 
 *Optional*
 
